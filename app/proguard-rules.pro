@@ -1,0 +1,7 @@
+-keep class org.apache.pdfbox.** { *; }
+-keep class com.tom_roush.pdfbox.** { *; }
+-dontwarn org.apache.pdfbox.**
+-keep class com.github.barteksc.** { *; }
+-keep class com.tom_roush.pdfbox.** { *; }
+-keep class org.apache.** { *; }
+-dontwarn org.apache.**

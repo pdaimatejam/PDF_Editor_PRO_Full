@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="paylas">Paylaş</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="temizle">Temizle</string>
+    <string name="ciz">Çiz</string>
+</resources>
